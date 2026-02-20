@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What molecular targets are associated with amyloid-beta pathology in Alzheimer's disease?",
+    "expected_title_keywords": ["amyloid", "abeta", "amyloid-beta"]
+  },
+  {
+    "question": "Which therapeutic targets are linked to tau phosphorylation?",
+    "expected_title_keywords": ["tau", "phosphorylation"]
+  },
+  {
+    "question": "What role does APOE play as a potential target in Alzheimer's interventions?",
+    "expected_title_keywords": ["apoe"]
+  },
+  {
+    "question": "Are there inflammasome-related targets reported for Alzheimer's disease?",
+    "expected_title_keywords": ["inflammasome", "neuroinflammation"]
+  },
+  {
+    "question": "What synaptic targets are discussed for cognitive rescue in Alzheimer's disease?",
+    "expected_title_keywords": ["synaptic", "cognitive"]
+  }
+]
