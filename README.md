@@ -1,6 +1,6 @@
-# Alzheimer RAS Agent
+# Alzheimer RAG Agent
 
-Prototype **Retrieval-Augmented System (RAS)** for helping researchers identify Alzheimer's disease therapeutic targets from biomedical literature.
+Prototype **Retrieval-Augmented System (RAG)** for helping researchers identify Alzheimer's disease therapeutic targets from biomedical literature.
 ## Setup
 
 ```bash
